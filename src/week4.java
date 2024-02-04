@@ -130,7 +130,7 @@ class Week4 {
 		firstAndLastDifference(new int[] { 64, 2, 8, 28, 93 }, true);
 
 		// 2: Creating an array of strings
-		String names[] = { "Sam", "Tommy", "Tim", "Buck", "Bob" };
+		String names[] = { "Sam", "Tommy", "Tim", "Sally", "Buck", "Bob" };
 		int nameLengths[] = new int[names.length];
 		// 2a: Calculate average number of letters per name
 		for(int i = 0; i < names.length; ++i)
